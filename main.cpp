@@ -46,7 +46,8 @@ if (a[k]>=b){
   }
  while (i<=j);
  Binario<<"\nelemento encontrado :   "<< a[k]<<endl;
-
+ cout <<"\n elemento buscado :"<<b<<endl;
+ 
 ////////////
 
 }
@@ -60,7 +61,7 @@ Binario.open("Binario.txt",ios::app);
     if (a[i]==dato){
         Binario<<"posicion "<<i;
    
-
+       return i;
     }
   
 
