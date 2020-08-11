@@ -1,3 +1,21 @@
 
 elemento encontrado :   5
 POSICION 5POSICION 5
+elemento encontrado :   5
+POSICION 5POSICION 5
+elemento encontrado :   5
+POSICION 5
+elemento encontrado :   5
+POSICION 5POSICION 5
+elemento encontrado :   5
+POSICION 5POSICION 5
+elemento encontrado :   5
+POSICION POSICION 
+elemento encontrado :   5
+
+elemento encontrado :   5
+
+elemento encontrado :   5
+
+elemento encontrado :   5
+posicion 4posicion 4
